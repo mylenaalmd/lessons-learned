@@ -15,10 +15,15 @@ body {
 }
 #minha_foto {
     width: 250px;
-    position: absolute;
-    top: 180px;
+    position:absolute;
+    top:180px;
 }
 #licoes_aprendidas {
-    position: absolute;
-    top: 450px;
+    position:absolute;
+    top:450px;
+}
+#licoes_a_aprender {
+    position:absolute;
+    top:450px;
+    left: 200px;
 }
