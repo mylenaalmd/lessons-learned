@@ -13,3 +13,12 @@ body {
 #titulo {
     text-align: center; 
 }
+#minha_foto {
+    width: 250px;
+    position: absolute;
+    top: 180px;
+}
+#licoes_aprendidas {
+    position: absolute;
+    top: 450px;
+}
