@@ -18,12 +18,12 @@ body {
     width: 250px;
     position:absolute;
     top:180px;
-    left: 220px;
+    left: 100px;
 }
 #licoes_aprendidas {
     position:absolute;
     top:450px;
-    left: 200px;
+    left: 80px;
 }
 #licoes_a_aprender {
     position:absolute;
@@ -44,24 +44,25 @@ article {
     position:absolute;
     top: 600px;
     margin: 90px;
-    left: 150px;
+    left: 1px;
     background-color:rgb(92, 235, 156);
 }
 aside {
     background-color: rgb(133, 190, 228);
-    width: 15%;
-    height: 100%;
-    float: right;
-    position: fixed;
+    text-align: center;
+    left: 700px;
+    position: absolute;
+    top: 700px;
+
 }
 table {
     position: absolute;
     width: 300px;
     height: 100px;
-    left: 600px;
-    top: 400px;
-    padding: 10px;
-    border:3px solid black;
+    left: 500px;
+    top: 250px;
+    padding: 10px 20px;
+    border:1px solid black;
     margin: 20px;
     color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
@@ -69,8 +70,8 @@ table {
     line-height: 10px;
 }
 .lado-esquerdo {
-    display: inline;
+    display: inline-block;
 }
 .lado-direito {
-    display: inline;
+    display: inline-block;
 }
